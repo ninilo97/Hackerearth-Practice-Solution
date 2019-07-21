@@ -1,3 +1,4 @@
+//@author Nikhil Londhe
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -17,5 +18,4 @@ int main(){
   }
   cout<<abs(res);
   return 0;
-  //nb=
 }
