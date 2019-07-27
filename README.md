@@ -8,12 +8,12 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 .
 ├── basic programming
-│   ├── basics of io /[Complete/]
+│   ├── basics of io [Complete]
 │   ├── basics of implementation
-│	└── complexity analysis /[Complete/]
+│	└── complexity analysis [Complete]
 ├── maths
-│   ├── basic number theory-2 /[Complete/]
-│   └── primality test /[Complete/]
+│   ├── basic number theory-2 [Complete]
+│   └── primality test [Complete]
 └── README.md
 ```
 
