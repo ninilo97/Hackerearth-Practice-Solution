@@ -49,5 +49,6 @@ int main(){
   for(auto i:(cnt=0,arr)){
     if(mn == i.s) { cout<<i.s<<" "<<idx[cnt]; break;}
     cnt++;
+  }
   return 0;
 }
