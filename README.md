@@ -10,7 +10,7 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ├── basic programming
 │   ├── basics of io [Complete]
 │   ├── basics of implementation
-│   ├── basics of operators
+│   ├── basics of operators [Complete]
 │   └── complexity analysis [Complete]
 ├── maths
 │   ├── basic number theory-2 [Complete]
