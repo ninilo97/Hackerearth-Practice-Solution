@@ -2,10 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int n,res;
+int n,res,xM[]={1,2,2,1,-1,-2,-2,-1},yM[]={-2,-1,1,2,2,1,-1,-2};
 bool grid[10][10];
-int xM[] = {1,2,2,1,-1,-2,-2,-1};
-int yM[] = {-2,-1,1,2,2,1,-1,-2};
 
 bool isSafe(int row, int col){ return (row<10 and col<10 and row>=0 and col>=0); }
 
@@ -24,4 +22,3 @@ int main(){
   cout<<res;
   return 0;
 }
-
