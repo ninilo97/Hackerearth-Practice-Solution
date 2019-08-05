@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int n,res,xM[]={1,2,2,1,-1,-2,-2,-1},yM[]={-2,-1,1,2,2,1,-1,-2};
+int n, res, xM[]={1,2,2,1,-1,-2,-2,-1}, yM[]={-2,-1,1,2,2,1,-1,-2};
 bool grid[10][10];
 
 bool isSafe(int row, int col){ return (row<10 and col<10 and row>=0 and col>=0); }
