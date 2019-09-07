@@ -8,12 +8,12 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 .
 ├── basic programming
-│   ├── basics of bit manipulation
+│   ├── basics of bit manipulation [Complete]
 │   ├── basics of io [Complete]
 │   ├── basics of implementation
 │   ├── basics of operators [Complete]
 │   ├── complexity analysis [Complete]
-│   └── recursion and backtracking
+│   └── recursion and backtracking [Complete]
 ├── maths
 │   ├── basic number theory-1
 │   ├── basic number theory-2 [Complete]
