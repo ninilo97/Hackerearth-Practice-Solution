@@ -15,7 +15,8 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 │   ├── complexity analysis [Complete]
 │   └── recursion and backtracking [Complete]
 ├── data structures
-│   └── 1-D
+│   ├── 1-D
+│   └── Multi-dimensional
 ├── maths
 │   ├── basic number theory-1
 │   ├── basic number theory-2 [Complete]
