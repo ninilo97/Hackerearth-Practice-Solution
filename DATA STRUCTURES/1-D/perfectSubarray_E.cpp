@@ -5,9 +5,7 @@ const int MX = 5000;
 
 int arr[MX+1];
 
-bool checkSquare(int x){
-  double xx=sqrt(x); return ((xx-floor(xx))==0);
-}
+bool checkSquare(int x){ double xx=sqrt(x); return ((xx-floor(xx))==0); }
 
 int main(){
   ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
@@ -17,10 +15,3 @@ int main(){
   cout<<res;
   return 0;
 }
-/*
-cout<<i<<' '<<j<<' '<<(arr[j]-arr[i])<<'\n';
-
-  1 4 2 3
-0 1 5 7 10
-*/
-
