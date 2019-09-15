@@ -8,31 +8,26 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 .
 ├── basic programming
-│   ├── basics of bit manipulation [Complete]
-│   ├── basics of io [Complete]
+│   ├── basics of bit manipulation
+│   ├── basics of io
 │   ├── basics of implementation
-│   ├── basics of operators [Complete]
-│   ├── complexity analysis [Complete]
-│   └── recursion and backtracking [Complete]
+│   ├── basics of operators
+│   ├── complexity analysis
+│   └── recursion and backtracking
 ├── data structures
-│   ├── 1-D
-│   └── Multi-dimensional
+│   ├── 1-d
+│   └── multi-dimensional
 ├── maths
 │   ├── basic number theory-1
-│   ├── basic number theory-2 [Complete]
+│   ├── basic number theory-2
 │   ├── basic of combinatorics
 │   ├── euler totient function
 │   ├── inclusion exclusion
-│   └── primality test [Complete]
+│   └── primality test
 └── README.md
 ```
 
 ### Notes
 * Files are named such that the appear in alphabetical order.
 * All files are marked with the difficulty tag from hackerearth: \_VE - VeryEasy, \_E - Easy, \_M - Medium and \_H - Hard
-
-### Contact
-Contact me on my [HackerEarth](https://www.hackerearth.com/@ninilo97) profile incase of:
-* Missing solution in sub-folders
-* Inability to comprehend the code
 * Suggestion for optimization (Author will be acknowledged)
