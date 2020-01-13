@@ -8,6 +8,7 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 .
 ├── algorithm
+│   ├── linear search
 │   └── graph representation
 ├── basic programming
 │   ├── basics of bit manipulation
