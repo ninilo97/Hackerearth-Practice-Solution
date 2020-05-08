@@ -32,5 +32,5 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 
 ### Notes
-* Files are named such that the appear in alphabetical order.
+* Files are named in alphabetical order.
 * All files are marked with the difficulty tag from hackerearth: \_VE - VeryEasy, \_E - Easy, \_M - Medium and \_H - Hard
