@@ -8,12 +8,13 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 ```
 .
 ├── algorithm
-│   ├── linear search
-│   └── graph representation
+│   ├── graph representation
+│   ├── hamiltonian path
+│   └── linear search
 ├── basic programming
 │   ├── basics of bit manipulation
-│   ├── basics of io
 │   ├── basics of implementation
+│   ├── basics of io
 │   ├── basics of operators
 │   ├── complexity analysis
 │   └── recursion and backtracking
@@ -24,9 +25,9 @@ Contains all my Hackerearth Practice Section Solution in c++14. Code are *one-li
 │   ├── basic number theory-1
 │   ├── basic number theory-2
 │   ├── basic of combinatorics
-│   ├── euler totient function
 │   ├── inclusion exclusion
-│   └── primality test
+│   ├── primality test
+│   └── euler totient function
 └── README.md
 ```
 
